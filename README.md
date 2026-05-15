@@ -19,4 +19,4 @@ Bangalore, India | [LinkedIn](https://linkedin.com/in/ayush-yumlembam-033339156)
 | [**Project 2**](link-to-repo) | coming soon |
 
 ## GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Yumlembam&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-Yumlembam&show_icons=true)
