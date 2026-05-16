@@ -16,7 +16,7 @@ Bangalore, India | [LinkedIn](https://linkedin.com/in/ayush-yumlembam-033339156)
 | Project | Description |
 | :--- | :--- |
 | [**Project 1**](https://github.com/Ayush-Yumlembam/Modal-Analysis-with-FenicsX) | Modal-Analysis-with-FEniCSX |
-| [**Project 2**](#) | coming soon |
+| [**Project 2**](###) | coming soon |
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush-Yumlembam&show_icons=true)
