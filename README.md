@@ -2,7 +2,7 @@
 
 **Mechanical Engineer | FEA Specialist | FEA Code Enthusiast | 10.6 years industry experience**
 
-Bangalore, India | [LinkedIn](https://linkedin.com/in/ayush-yumlembam-033339156) | [CV](https://github.com/Ayush-Yumlembam/Ayush-Yumlembam/blob/main/CV/ayush_CV_general_v6.pdf)
+Bangalore, India | [LinkedIn](https://linkedin.com/in/ayush-yumlembam-033339156) | [CV](https://github.com/Ayush-Yumlembam/Ayush-Yumlembam/raw/main/CV/ayush_CV_general_v6-002.pdf)
 
 ---
 
